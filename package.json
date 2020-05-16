@@ -1,0 +1,19 @@
+{
+  "name": "mhc-courses",
+  "version": "1.0.0",
+  "description": "Courses for https://masahachaim.org",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klickers/mhc-courses.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/klickers/mhc-courses/issues"
+  },
+  "homepage": "https://github.com/klickers/mhc-courses#readme"
+}
