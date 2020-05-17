@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/klickers/mhc-courses/issues"
   },
-  "homepage": "https://github.com/klickers/mhc-courses#readme"
+  "homepage": "https://github.com/klickers/mhc-courses#readme",
+  "dependencies": {
+    "light-server": "^2.6.4"
+  }
 }
